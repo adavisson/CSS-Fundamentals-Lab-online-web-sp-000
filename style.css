@@ -31,3 +31,11 @@ nav a {
   margin-left: auto;
   width: 800px;
 }
+
+#details {
+  display: block;
+}
+
+#details div {
+  float: left;
+}
